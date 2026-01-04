@@ -27,9 +27,15 @@
 <!-- ============================= -->
 <!--       TECH STACK              -->
 <!-- ============================= -->
+
 <h3 align="center">💻 Programming Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,python,cplusplus" />
+</div>
+
+<h3 align="center">🌐 Web Technologies</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,ts,tailwind,git,github" />
 </div>
 
 ---
