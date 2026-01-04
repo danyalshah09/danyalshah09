@@ -3,14 +3,21 @@
 <!-- ============================= -->
 <h1 align="center">
   Hey, I'm Danyal</h1>
-<h3 align="center">A Software Engineer building interactive & beautiful solutions💻✨</h3>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=A+Software+Engineer;An AI Enthusiast;Turning+ideas+into+reality;Always+learning%2C+always+growing" alt="Typing SVG" />
+</h3>
 <div align="center">
-  <!-- Animated visitor count -->
-  <img src="https://profile-counter.glitch.me/danyalshah09/count.svg" alt="Visitor Count" />
+  <!-- Profile views counter -->
+  <img src="https://komarev.com/ghpvc/?username=danyalshah09&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+<br>
+<div align="start">
+  <p>• 🎯 Passionate about clean code & modern design</p>
+  <p>• 🚀 Building full-stack applications with React & Node.js</p>
+  <p>• 📚 Continuously learning & exploring new technologies</p>
+  <p>• 💬 Open to collaboration & interesting projects</p>
 </div>
 
----
 
 <!-- ============================= -->
 <!--       GITHUB STATS             -->
@@ -27,17 +34,46 @@
 <!--       TECH STACK              -->
 <!-- ============================= -->
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="start">💻 Programming Languages</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" width="50" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp"  />
 </div>
 
-<h3 align="center">🌐 Web Technologies</h3>
+<h3 align="start">🌐 Web Technologies</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,ts,tailwind,git,github" width="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,ts,tailwind,git,github"  />
+</div>
+
+<!-- ============================= -->
+<!--       DEV ECOSYSTEM            -->
+<!-- ============================= -->
+
+<h3 align="start">🛠️ Developer Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,npm,yarn,vercel,netlify,webpack" />
+</div>
+<h3 align="start">🧑‍💻 IDEs & Code Editors</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm" />
+</div>
+
+<h3 align="start">💻 Operating Systems</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows11,linux,ubuntu" />
+</div>
+
+<h3 align="start">🗄️ Databases & Backend Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,nodejs,express" />
+</div>
+
+<h3 align="start">☁️ Cloud & Deployment</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
 </div>
 
 ---
+
 
 <!-- ============================= -->
 <!--       FEATURED PROJECTS        -->
@@ -92,5 +128,5 @@
 <!--       ANIMATED QUOTE           -->
 <!-- ============================= -->
 <div align="center">
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
