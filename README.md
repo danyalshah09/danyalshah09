@@ -1,8 +1,6 @@
-<!-- ============================= -->
-<!--        WELCOME SECTION        -->
-<!-- ============================= -->
 <h1 align="center">
   Hey, I'm Danyal</h1>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=A+Software+Engineer;An AI Enthusiast;Turning+ideas+into+reality;Always+learning%2C+always+growing" alt="Typing SVG" />
 </h3>
@@ -12,24 +10,21 @@
 </div>
 <br>
 <div align="start">
-  <p>• 🎯 Passionate about clean code & modern design</p>
-  <p>• 🚀 Building full-stack applications with React & Node.js</p>
-  <p>• 📚 Continuously learning & exploring new technologies</p>
-  <p>• 💬 Open to collaboration & interesting projects</p>
+  <p>•  Passionate about clean code & modern design</p>
+  <p>•  Building full-stack applications with React & Node.js</p>
+  <p>•  Continuously learning & exploring new technologies</p>
+  <p>•  Open to collaboration & interesting projects</p>
+  <p>•  I am currently looking for opportunities </p>
+
 </div>
-
-
-<!-- ============================= -->
-<!--       GITHUB STATS             -->
-<!-- ============================= -->
 <div align="center">
-  <h3>GitHub Stats 📊</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=danyalshah09&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyalshah09&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <a href="https://danyalshah.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Website-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
----
+
+
 <!-- ============================= -->
 <!--       TECH STACK              -->
 <!-- ============================= -->
@@ -102,10 +97,7 @@
   <a href="https://www.linkedin.com/in/danyalshah09">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/danyalshah09">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:danyalshah09@gmail.com">
+  <a href="mailto:danyalshah1001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
