@@ -2,7 +2,7 @@
 <!--        WELCOME SECTION        -->
 <!-- ============================= -->
 <h1 align="center">
-  Hi there 👋, I'm Danyal Shah</h1>
+  Hey, I'm Danyal</h1>
 <h3 align="center">A Software Engineer building interactive & beautiful solutions💻✨</h3>
 
 <div align="center">
