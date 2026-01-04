@@ -1,55 +1,92 @@
-## Hi there 👋, I'm Danyal Shah
-
-### A Frontend Developer who loves creating beautiful & responsive web experiences 💻✨
+<!-- ============================= -->
+<!--        WELCOME SECTION        -->
+<!-- ============================= -->
+<h1 align="center">
+  Hi there 👋, I'm Danyal Shah
+</h1>
+<h3 align="center">A Frontend Developer building interactive & beautiful web experiences 💻✨</h3>
 
 <div align="center">
-  <!-- Visitor Count -->
-  <p>Visitor Count:</p>
+  <!-- Animated visitor count -->
   <img src="https://profile-counter.glitch.me/danyalshah09/count.svg" alt="Visitor Count" />
-
-  <!-- GitHub Stats -->
-  <p>GitHub Stats:</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danyalshah09&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <p>Top Languages:</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyalshah09&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-### 💻 Tech Stack
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
----
-
-### 📂 Featured Projects
-- [Passu Tourist Lodge](https://github.com/danyalshah09/passu-tourist-lodge) - Full Frontend Website with HTML, CSS & JS
-- [Dice Game](https://github.com/danyalshah09/dice-game) - Interactive browser game using JavaScript
-- [React Portfolio](https://github.com/danyalshah09/react-portfolio) - Modern React portfolio website
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyalshah09)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danyalshah09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyalshah09@gmail.com)
-
----
-
-### ⚡ Fun Facts
-- 🌱 Currently learning: TypeScript & Tailwind CSS  
-- 💡 Fun fact: I drink at least 3 cups of coffee while coding ☕  
-- 💬 Always up for collaboration or fun projects!  
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
+<!-- ============================= -->
+<!--       GITHUB STATS             -->
+<!-- ============================= -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKr8pDgPp3Jr1y4/giphy.gif" width="250" />
+  <h3>GitHub Stats 📊</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=danyalshah09&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyalshah09&layout=compact&theme=highcontrast" alt="Top Languages" />
+</div>
+
+---
+
+<!-- ============================= -->
+<!--       TECH STACK              -->
+<!-- ============================= -->
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,ts,tailwind,git,github" />
+</div>
+
+---
+
+<!-- ============================= -->
+<!--       FEATURED PROJECTS        -->
+<!-- ============================= -->
+<h3 align="center">🚀 Featured Projects</h3>
+<div align="center">
+  <!-- Project cards with GIF previews -->
+  <a href="https://github.com/danyalshah09/passu-tourist-lodge">
+    <img src="https://media.giphy.com/media/l2SpMP44Mc2p7ZpnO/giphy.gif" alt="Passu Tourist Lodge" width="200px" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/danyalshah09/dice-game">
+    <img src="https://media.giphy.com/media/3o7TKu5bE2aCxDzzGk/giphy.gif" alt="Dice Game" width="200px" style="margin: 10px;" />
+  </a>
+  <a href="https://github.com/danyalshah09/react-portfolio">
+    <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" alt="React Portfolio" width="200px" style="margin: 10px;" />
+  </a>
+</div>
+
+---
+
+<!-- ============================= -->
+<!--       CONNECT / SOCIAL         -->
+<!-- ============================= -->
+<h3 align="center">📫 Connect with me</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/danyalshah09">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/danyalshah09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:danyalshah09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- ============================= -->
+<!--       FUN / PERSONAL TOUCH    -->
+<!-- ============================= -->
+<h3 align="center">⚡ Fun & Random</h3>
+<div align="center">
+  <p>Currently learning <b>TypeScript & Tailwind CSS</b></p>
+  <p>💡 Fun fact: I drink 3 cups of coffee while coding ☕</p>
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="250px" />
+</div>
+
+---
+
+<!-- ============================= -->
+<!--       ANIMATED QUOTE           -->
+<!-- ============================= -->
+<div align="center">
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </div>
