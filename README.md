@@ -2,8 +2,8 @@
 <!--        WELCOME SECTION        -->
 <!-- ============================= -->
 <h1 align="center">
-  Hi there 👋, I'm Danny but not Daniels</h1>
-<h3 align="center">A Software Developer building interactive & beautiful solutions💻✨</h3>
+  Hi there 👋, I'm Danyal Shah</h1>
+<h3 align="center">A Software Engineer building interactive & beautiful solutions💻✨</h3>
 
 <div align="center">
   <!-- Animated visitor count -->
