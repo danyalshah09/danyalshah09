@@ -2,7 +2,7 @@
   Hey, I'm Danyal</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=A+Software+Engineer;An AI Enthusiast;Turning+ideas+into+reality;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=A+Software+Engineer;An+AI+Enthusiast;Turning+ideas+into+reality;Always+learning%2C+always+growing" alt="Typing SVG" />
 </h3>
 <div align="center">
   <!-- Profile views counter -->
