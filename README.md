@@ -3,7 +3,7 @@
 <!-- ============================= -->
 <h1 align="center">
   Hi there 👋, I'm Danny but not Daniels</h1>
-<h3 align="center">A Frontend Developer building interactive & beautiful web experiences 💻✨</h3>
+<h3 align="center">A Software Developer building interactive & beautiful solutions💻✨</h3>
 
 <div align="center">
   <!-- Animated visitor count -->
