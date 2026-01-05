@@ -71,25 +71,6 @@
 
 
 <!-- ============================= -->
-<!--       FEATURED PROJECTS        -->
-<!-- ============================= -->
-<h3 align="center">🚀 Featured Projects</h3>
-<div align="center">
-  <!-- Project cards with GIF previews -->
-  <a href="https://github.com/danyalshah09/ptl_react">
-    <img src="https://media.giphy.com/media/l2SpMP44Mc2p7ZpnO/giphy.gif" alt="Passu Tourist Lodge" width="200px" style="margin: 10px;" />
-  </a>
-  <a href="https://github.com/danyalshah09/wakhiverse">
-    <img src="https://media.giphy.com/media/3o7TKu5bE2aCxDzzGk/giphy.gif" alt="Dice Game" width="200px" style="margin: 10px;" />
-  </a>
-  <a href="https://carmazium.com/">
-    <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" alt="React Portfolio" width="200px" style="margin: 10px;" />
-  </a>
-</div>
-
----
-
-<!-- ============================= -->
 <!--       CONNECT / SOCIAL         -->
 <!-- ============================= -->
 <h3 align="center">📫 Connect with me</h3>
