@@ -11,6 +11,7 @@
 <br>
 <div align="start">
   <p>•  Passionate about clean code & modern design</p>
+    <p>•  Crafting visually appealing 3D websites</p>
   <p>•  Building full-stack applications with React & Node.js</p>
   <p>•  Continuously learning & exploring new technologies</p>
   <p>•  Open to collaboration & interesting projects</p>
