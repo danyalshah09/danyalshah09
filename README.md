@@ -37,7 +37,7 @@
 
 <h3 align="start">🌐 Web Technologies</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,ts,tailwind,git,github"  />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,ts,tailwind,git,github,threejs,webgl"  />
 </div>
 
 <!-- ============================= -->
